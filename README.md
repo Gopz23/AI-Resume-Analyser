@@ -28,3 +28,6 @@ python app.py
 ## Screenshot
 
 Dark AI Dashboard with ATS Score & Skill Analytics.
+<img width="1805" height="676" alt="image" src="https://github.com/user-attachments/assets/6362ce8f-aeab-4fa6-a652-38d13f8fc1dd" />
+
+
